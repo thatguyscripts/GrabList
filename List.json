@@ -1,0 +1,14 @@
+{
+	"LastUpdate": "2023-09-27 15:35:50Z",
+	"Application": [{
+		"Name": "7-Zip *",
+		"Version": "*",
+		"Type": "programs",
+		"SilentArg": "/S"
+	},{
+		"Name": "7-Zip ??.??",
+		"Version": "*",
+		"Type": "msi"
+	}
+]
+}
